@@ -136,7 +136,3 @@ En France, l'espace public n'est pas le même pour tout le monde :
 SafeWay répond à ce constat en créant un réseau de solidarité citoyenne instantané.
 
 ---
-
-## Auteur
-
-Projet réalisé par **Chahine** — 2025
